@@ -1,7 +1,5 @@
 # this_is_a_simple_test
 This_is_a_simple_TEST
-
-00000
 fake modified
 fake modified2
 
